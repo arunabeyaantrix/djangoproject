@@ -141,6 +141,8 @@ pythonenv*
 .dmypy.json
 dmypy.json
 venv
+/media
+/static
 
 # Pyre type checker
 .pyre/
